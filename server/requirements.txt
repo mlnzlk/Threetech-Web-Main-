@@ -1,0 +1,10 @@
+uvicorn
+fastapi
+torch
+torchvision
+transformers
+sentencepiece
+sacremoses
+min_dalle
+pymysql
+python-dotenv
