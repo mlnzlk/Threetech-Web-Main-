@@ -6,8 +6,6 @@
 Uploading 산학협력캡스톤_쓰리테크_최종영상.mov…<br>
 [산학협력캡스톤_쓰리테_최종포스터.pdf](https://github.com/mlnzlk/Threetech-Web-Main-/files/11832746/_._.pdf)<br><br><br>
 
-
-
 ![image](https://github.com/mlnzlk/Threetech-Web-Main-/assets/93921790/c596614a-b538-4b32-9252-599b2eba7104)
 
 
