@@ -1,0 +1,135 @@
+/* Radio CSS */
+/* Radio버튼 */
+.background-color {
+  top: 10px;
+  width: 90%;
+  background-color: #c3acd0;
+  display: flex;
+  margin: 20px auto;
+  border-radius: 0.5rem;
+}
+.prompt-explain {
+  text-align: center;
+  top: 10px;
+  width: 90%;
+  background-color: #c3acd0;
+  margin: auto;
+  border-radius: 0.5rem;
+  font-size: 30px;
+}
+
+.prompt-explain span {
+  margin-top: 30px;
+  color: #fffbf5;
+}
+
+.radio-title {
+  margin: auto;
+  text-align: center;
+  color: #fffbf5;
+}
+.radio-title span {
+  font-size: 30px;
+}
+.radio-image {
+  margin-top: 30px;
+  margin-right: 30px;
+}
+
+.input-hidden {
+  display: none;
+}
+
+.background-color label {
+  width: 200px;
+  height: 270px;
+  background-color: #fffbf5;
+  border-radius: 5px;
+}
+
+.background-color label:hover {
+  background-color: #674188;
+}
+label > div:hover {
+  color: white;
+}
+
+.style {
+  color: #232323;
+  font-size: 30px;
+}
+.radio-prompt-image-box:hover {
+  color: #fffbf5;
+}
+.radio-prompt-image-box p {
+  margin-top: 30px;
+}
+
+img {
+  height: 150px;
+  width: 150px;
+  margin: auto;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.align {
+  display: inline-block;
+  text-align: center;
+  margin: 15px;
+}
+
+.radio-prompt-container {
+  margin-top: 50px;
+}
+
+/* Prompt CSS */
+.prompt-container {
+  width: 90%;
+  height: 342px;
+  background-color: #c3acd0;
+  display: flex;
+  margin: auto;
+  border-radius: 0.5rem;
+}
+.prompt-title-container {
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.prompt-title {
+  text-align: center;
+  font-size: 30px;
+  color: #f7efe5;
+}
+
+.prompt-input {
+  width: 1039px;
+  height: 276px;
+  background-color: #fffbf5;
+  border-radius: 2rem;
+  margin: auto;
+  font-size: 30px;
+  margin-right: 100px;
+  text-align: center;
+  color: #674188;
+}
+
+/* 버튼 부분 css */
+.click-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.click-button button {
+  width: 264px;
+  height: 64px;
+  border-radius: 0.5rem;
+  font-size: 20px;
+  color: #f7efe5;
+  background-color: #c3acd0;
+}

@@ -1,0 +1,18 @@
+.footer-container {
+  width: 100%;
+  background-color: #f6f6f6;
+  height: 150px;
+  text-align: center;
+}
+
+.footer-link-box {
+  margin-top: 50px;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+}
+
+.footer-link-text {
+  padding-top: 50px;
+  color: #a5a5a5;
+}

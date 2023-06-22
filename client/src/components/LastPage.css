@@ -1,0 +1,42 @@
+.Ending-Container {
+  width: 1590px;
+  height: 850px;
+  margin: auto;
+  margin-top: 20px;
+  background-color: #c3acd0;
+  color: #fffbf5;
+  font-size: 30px;
+  box-shadow: 5px 5px 5px grey;
+  border-radius: 0.5rem;
+}
+
+.Ending-Complete-Title {
+  text-align: center;
+  padding-top: 20px;
+  margin-bottom: 10px;
+}
+.Ending-Image {
+  text-align: center;
+  border-radius: 0.5rem;
+}
+.Ending-Image img {
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  border-radius: 0.5rem;
+}
+
+.Ending-Button-Container {
+  margin-top: 20px;
+  text-align: center;
+}
+.Ending-Button-Container button {
+  width: 274px;
+  height: 64px;
+  border-radius: 5em;
+  background-color: white;
+  font-size: 20px;
+}
+.Ending-Download {
+  margin-right: 100px;
+}

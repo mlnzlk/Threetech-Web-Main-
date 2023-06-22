@@ -1,0 +1,35 @@
+.image-gallery-contianer {
+  margin-top: 100px;
+  margin-bottom: 20px;
+  margin: auto;
+}
+.image-gallery-card-container {
+  width: 400px;
+  height: 400px;
+  margin: auto;
+}
+
+.prompt-explain {
+  text-align: center;
+  top: 10px;
+  width: 88%;
+  background-color: #c3acd0;
+  padding: 15px;
+  margin: auto;
+  border-radius: 0.5rem;
+  font-size: 30px;
+}
+
+.prompt-explain span {
+  margin-top: 30px;
+  color: #fffbf5;
+}
+
+.image-gallery-card-container img {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 20px;
+}
+.image-gallery-card-container h3 {
+  margin-left: 20px;
+}
